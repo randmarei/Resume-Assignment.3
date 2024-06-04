@@ -1,0 +1,58 @@
+h1{ 
+   border-top-style: dotted;
+   border-bottom-style: dotted;
+   border-left-style: dotted;
+   border-right-style: dotted;
+   margin-top: 50px;
+   }
+   #letterhead {
+    border-style:double;
+    border-color:orange;
+    }
+
+
+   #box1{
+    border: 5px solid;
+    border-color:black;
+    padding: auto;
+    margin: 20px;
+    width: auto;
+    height: auto;
+}
+.h2{
+
+    border: 5px;;
+    border-color: blue;
+    padding: auto;
+    font-size: 20px;
+}
+body{
+    background-color: beige;
+
+}
+
+
+
+
+.contaner {
+    width: auto;
+    height: auto;
+    margin: 20px;
+    padding: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
